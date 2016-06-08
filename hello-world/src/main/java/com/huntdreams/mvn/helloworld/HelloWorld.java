@@ -7,7 +7,7 @@ package com.huntdreams.mvn.helloworld;
 public class HelloWorld {
 
     public String sayHello() {
-        return "Hello Maven";
+        return "Hello World!";
     }
 
     public static void main(String[] args) {
