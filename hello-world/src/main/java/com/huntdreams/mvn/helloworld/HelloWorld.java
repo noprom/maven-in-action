@@ -5,6 +5,7 @@ package com.huntdreams.mvn.helloworld;
  * Date: 6/7/16 10:22 PM.
  */
 public class HelloWorld {
+
     public String sayHello() {
         return "Hello Maven";
     }
