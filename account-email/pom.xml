@@ -6,7 +6,12 @@
 
     <groupId>com.huntdreams.mvn.account</groupId>
     <artifactId>account-email</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>../project-b</module>
+        <module>../project-a</module>
+    </modules>
     <name>Account Email</name>
 
     <dependencies>
